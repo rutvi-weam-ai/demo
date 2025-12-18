@@ -1,1 +1,1 @@
-# demo
+Just paste your API key directly in the code to get started quickly!
